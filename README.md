@@ -1,12 +1,10 @@
-# Roblox Cheat 
+# Roblox DLL
 
-This is a simple Roblox cheat tool with basic hacks like Fly, Aimbot, and Phase for Windows.
+This is a simple Roblox tool for Windows.
 
 ## Features
 
-- **Fly**
-- **Aimbot**
-- **Phase**
+a base for creating DLL Injectors for Roblox
 
 ## Requirements
 
@@ -14,18 +12,6 @@ This is a simple Roblox cheat tool with basic hacks like Fly, Aimbot, and Phase 
 - Roblox running on your PC  
 - Basic knowledge of running external tools
 
-## Usage
-
-1. Run the cheat executable while Roblox is running.  
-2. Attach to the Roblox process.  
-3. Use hotkeys to toggle Fly, Aimbot, and Phase (hotkeys set inside the cheat).  
-4. Have fun dominating the game.
-
-## Disclaimer
-
-This is for educational purposes only. Use at your own risk. Cheating can lead to bans.
-
----
-
 > [!WARNING]
+> *This is for educational purposes only. Use at your own risk. Cheating can lead to bans.*
 > *Use responsibly and respect the game community!*
